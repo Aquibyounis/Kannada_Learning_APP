@@ -9,9 +9,7 @@ import {
   Collapse,
   theme as antTheme,
   Segmented,
-  Switch,
   Radio,
-  Result,
   Badge,
   Modal,
 } from "antd";
@@ -28,7 +26,6 @@ import {
   SunOutlined,
   MoonOutlined,
   TrophyOutlined,
-  QuestionCircleOutlined,
   StarFilled,
   FireFilled,
   CloseOutlined,
